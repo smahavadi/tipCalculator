@@ -4,7 +4,7 @@
 
 Submitted by: **Suma Mahavadi**
 
-Time spent: **3** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
@@ -15,14 +15,12 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [ ] UI animations
-* [ ] Remembering the bill amount across app restarts (if <10mins)
-* [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [ ] User can use slider bar for more accurate/ various choices for a tip
 
 The following **additional** features are implemented:
 
 - [ ] Logo
+- [ ] Font and background are customized to be more appealing
 
 ## Video Walkthrough
 
@@ -34,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-This is my first time doing a project with Swift on my own. Previously, for a hackaothon I learned some basic level Swift and used the help of mentors to create a small app in a team with two other people, so I was able to ask for help. However, since this project was an individual project, and its been quite a while since I have used Swift, I had a hard time picking it up again and figuring out how to get the tools to work like they where supposed to. Thanks to the step by step tutorial and the video, I was able to get a basic version of the app going. My next challenge was adding the optional features and customization.I struggled a lot with the coding and understanding what exactly I wanted the app to do. I was able to figure out how to do it by...[add more here]
+This is my first time doing a project with Swift on my own. Previously, for a hackaothon I learned some basic level Swift and used the help of mentors to create a small app in a team with two other people, so I was able to ask for help. However, since this project was an individual project, and its been quite a while since I have used Swift, I had a hard time picking it up again and figuring out how to get the tools to work like they where supposed to. Thanks to the step by step tutorial and the video, I was able to get a basic version of the app going. My next challenge was adding the optional features and customization. I struggled a lot with the coding and understanding what exactly I wanted the app to do. I was able to figure out how to do it by looking at the functionality for each tool and figuring out how I could integrate it within my application.
 
 ## License
 
